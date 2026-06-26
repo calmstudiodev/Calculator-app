@@ -28,3 +28,7 @@ this project helped me practice:
 -String methods (slice)
 -JavaScript functions
 -Basic error handling
+
+##Live DEMO
+Click here to try:
+https://calmstudiodev.github.io/calculator-app
