@@ -31,4 +31,4 @@ this project helped me practice:
 
 ##Live DEMO
 Click here to try:
-https://calmstudiodev.github.io/Calculator-app
+https://calmstudiodev.github.io/Calculator-app/
